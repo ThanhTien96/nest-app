@@ -74,3 +74,9 @@ Nest is [MIT licensed](LICENSE).
 
 
 `````` docker run --name postgres-nest -p 5432:5432 -e POSTGRES_PASSWORD=postgres -d postgres ``````
+
+## validator transformer Data Transfor Object
+`````` yarn add  class-validator class-transformer ``````
+
+## Type ORM
+`````` yarn add typeorm @nestjs/typeorm pg ``````
